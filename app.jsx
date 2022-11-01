@@ -1,7 +1,7 @@
 function Info() {
   return (
     <div className="">
-      <img src="cus-1.svg" alt="" />
+      <img src="/cus-1.svg" alt="" />
       <div className="info">
         <h3>Susan Smith</h3>
         <p>WEB DEVELOPER</p>
