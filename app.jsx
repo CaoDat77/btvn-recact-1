@@ -14,10 +14,10 @@ function Control() {
   return (
     <div className="control">
       <div className="arow">
-        <i class="bx bx-chevron-left"></i>
+        <i className="bx bx-chevron-left"></i>
       </div>
       <div className="arow">
-        <i class="bx bx-chevron-right"></i>
+        <i className="bx bx-chevron-right"></i>
       </div>
     </div>
   );
